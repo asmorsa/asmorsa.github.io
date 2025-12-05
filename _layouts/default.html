@@ -51,12 +51,11 @@
                         </p>
                     </div>
                     <div class="downloadButtonsContainer">
-                        <!-- Mostramos siempre ambos iconos -->
-                        <a class="playStoreLink" href="{{ site.playstore_link | default: '#' }}">
-                            <img class="playStore" src="assets/playstore.png" alt="Play Store">
+                        <a class="playStoreLink" href="{{site.playstore_link}}">
+                            <img class="playStore" src="assets/playstore.png" style="height:150px; width:auto;">
                         </a>
-                        <a class="appStoreLink" href="{{ site.appstore_link | default: '#' }}">
-                            <img class="appStore" src="assets/appstore.png" alt="App Store">
+                        <a class="appStoreLink" href="{{site.appstore_link}}">
+                            <img class="appStore" src="assets/appstore.png">
                         </a>
                     </div>
                 </div>
