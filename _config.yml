@@ -17,14 +17,14 @@ app_description                           : Los mejores bares de Valencia en la 
 enable_smart_app_banner                   : true
 
 # Information About Yourself
-your_name                                 : Adrián
+your_name                                 : Asmorsa
 your_link                                 : https://asmorsa.com                     
 your_city                                 : Valencia
-email_address                             : contacto@asmorsa.com
+email_address                             : contact@asmorsa.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         : asmorsa
-instagram_username                        : asmorsa
+instagram_username                        : asmorsa_app
 twitter_username                          : asmorsa
 github_username                           : asmorsa
 youtube_username                          :
@@ -33,20 +33,20 @@ mastodon_link                             :
 # Feature List
 features                                  :
 
-  - title                                 : Bares y terrazas
-    description                           : Descubre los mejores bares y terrazas de Valencia, con fotos y reseñas.
+  - title                                 : Bares
+    description                           : Descubre los mejores bares de Valencia para almorzar.
     fontawesome_icon_name                 : glass-martini
     
   - title                                 : Localización rápida
-    description                           : Encuentra bares cerca de ti con un solo clic.
+    description                           : Encuentra bares cerca de ti con nuestro mapa interactivo.
     fontawesome_icon_name                 : map-marker-alt
 
-  - title                                 : Eventos y promociones
-    description                           : Entérate de todos los eventos y ofertas especiales en tu zona.
+  - title                                 : Interactúa
+    description                           : Obtén insignias y haz crecer a tu bar favorito en la Liga Asmorsa.
     fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Favoritos
-    description                           : Guarda tus bares y locales preferidos para acceder rápido.
+  - title                                 : Comunidad
+    description                           : Valora y cuenta tu experiencia en cada bar.
     fontawesome_icon_name                 : heart
 
 # Theme Settings
