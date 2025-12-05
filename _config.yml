@@ -11,8 +11,8 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/asmorsa_logo.png                                          # Ruta de icono, por ejemplo: assets/appicon.png
 app_name                                  : Asmorsa
-app_price                                 : Free
-app_description                           : Los mejores bares de Valencia en la palma de tu mano. La app es gratuita y por ahora no está en App Store ni Play Store pero lo estará.
+app_price                                 : Gratuito
+app_description                           : Los mejores bares de Valencia en la palma de tu mano.
 
 enable_smart_app_banner                   : true
 
