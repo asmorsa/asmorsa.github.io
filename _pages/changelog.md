@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: Tengo un bar
 include_in_header: true
 ---
 
