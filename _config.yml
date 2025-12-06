@@ -35,7 +35,7 @@ features                                  :
 
   - title                                 : Bares
     description                           : Descubre los mejores bares de Valencia para almorzar.
-    fontawesome_icon_name                 : fa-baguette
+    fontawesome_icon_name                 : mug-saucer
     
   - title                                 : Localización rápida
     description                           : Encuentra bares cerca de ti con nuestro mapa interactivo.
