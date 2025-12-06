@@ -35,7 +35,7 @@ features                                  :
 
   - title                                 : Bares
     description                           : Descubre los mejores bares de Valencia para almorzar.
-    fontawesome_icon_name                 : glass-martini
+    fontawesome_icon_name                 : baguette
     
   - title                                 : Localización rápida
     description                           : Encuentra bares cerca de ti con nuestro mapa interactivo.
@@ -43,11 +43,11 @@ features                                  :
 
   - title                                 : Interactúa
     description                           : Obtén insignias y haz crecer a tu bar favorito en la Liga Asmorsa.
-    fontawesome_icon_name                 : calendar-alt
+    fontawesome_icon_name                 : medal
 
   - title                                 : Comunidad
     description                           : Valora y cuenta tu experiencia en cada bar.
-    fontawesome_icon_name                 : heart
+    fontawesome_icon_name                 : comment
 
 # Theme Settings
 topbar_color                              : "#000000"
