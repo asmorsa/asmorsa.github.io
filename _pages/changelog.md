@@ -2,6 +2,7 @@
 layout: page
 title: Tengo un bar
 include_in_header: true
+redirect_to: "https://app.asmorsa.com/tengounbar"
 ---
 
 # Changelog
