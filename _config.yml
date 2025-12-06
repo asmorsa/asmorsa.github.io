@@ -9,7 +9,7 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Igual que arriba
 presskit_download_link                    :                                           # Si tienes presskit, pon el link aquí
 
-app_icon                                  : assets/asmorsa_logo.png                                          # Ruta de icono, por ejemplo: assets/appicon.png
+app_icon                                  : /assets/asmorsa_logo.png                                          # Ruta de icono, por ejemplo: assets/appicon.png
 app_name                                  : Asmorsa
 app_price                                 : Gratuito
 app_description                           : Los mejores bares de Valencia en la palma de tu mano.
