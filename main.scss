@@ -30,3 +30,6 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
+// ESTAS SON LAS LÍNEAS QUE TE FALTABAN PARA QUE SE VEA BIEN:
+@import "base";
+@import "layout";
