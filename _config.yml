@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/asmorsa_logo.png                                          # Ruta de icono, por ejemplo: assets/appicon.png
 app_name                                  : Asmorsa
 app_price                                 : Gratuito
-app_description                           : Los mejores bares de Valencia en la palma de tu mano.
+app_description                           : Los mejores almuerzos de Valencia en la palma de tu mano.
 
 enable_smart_app_banner                   : true
 
