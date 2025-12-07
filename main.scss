@@ -30,6 +30,31 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
+/* Estilos para el botón de Acceder */
+.btn-asmorsa {
+  background-color: #eb9b34;
+  color: white !important; /* Importante para sobreescribir el color gris del menú */
+  padding: 10px 20px;
+  border-radius: 50px;     /* Bordes redondeados */
+  text-decoration: none;
+  font-weight: 600;
+  border: none;
+  display: inline-block;
+  transition: all 0.2s ease;
+  line-height: 1.2;        /* Ajuste para que el texto quede centrado */
+}
+
+.btn-asmorsa:hover {
+  opacity: 0.9;
+  transform: scale(1.05);  /* Efecto pop al pasar el ratón */
+  color: white !important;
+}
+
+/* Ajuste específico para que se vea bien en el menú del header */
+nav ul li .btn-asmorsa {
+    margin-left: 15px; /* Separarlo un poco del resto de enlaces */
+}
+
 @import 
     "base",
     "layout",
