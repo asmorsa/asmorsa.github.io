@@ -2,7 +2,7 @@
 page_title                                : Asmorsa                                  # Nombre de la app en la cabecera y smart banner
 
 # App Info
-ios_app_id                                : 1234793120                                # Puedes dejarlo igual hasta que tengas ID real
+ios_app_id                                :                                # Puedes dejarlo igual hasta que tengas ID real
 ios_app_country                           : us                                        
 
 appstore_link                             :                                           # De momento vacío, luego pon el link cuando esté publicada
