@@ -1,4 +1,4 @@
-# **asmorsa**       <small>✉️ [Contacto](mailto:legal@asmorsa.app) </small>
+# **asmorsa**       <small>✉️ [Contacto](mailto:legal@asmorsa.app)</small>
 
 ## A. Declaración de privacidad y cookies 
 
