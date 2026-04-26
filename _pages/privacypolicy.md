@@ -4,9 +4,9 @@ title: Política de Privacidad
 include_in_header: false
 ---
 
-# **asmorsa**       <small>✉️ [Contacto](mailto:legal@asmorsa.app)</small>
+# **asmorsa** <span style="font-size: 0.4em; font-weight: normal; color: #666; vertical-align: middle; margin-left: 30px;">✉️ Contacto</span>
 
-## A. Declaración de privacidad y cookies 
+## A. Declaración de privacidad y cookies 
 
 ### A. Declaración de Privacidad y Cookies
 
@@ -48,7 +48,7 @@ Asmorsa utiliza los siguientes servicios de terceros para la gestión técnica y
 * **Supabase Inc.** (encargado del tratamiento de datos y alojamiento).
     * Dirección: 970 Toa Payoh North #07-04, Singapur 318992.
     * Garantiza medidas adecuadas de seguridad y cumplimiento del RGPD mediante acuerdos contractuales.
-    * El tratamiento se realiza en servidores dentro de la UE. Las transferencias internacionales se amparan en las Standard Contractual Clauses (SCCs) y las evaluaciones de impacto (TIA) proporcionadas por Supabase.
+    * Asmorsa utiliza Supabase (Supabase Inc., EE. UU.) como proveedor encargado del tratamiento. El tratamiento se realiza en servidores dentro de la UE. Las transferencias internacionales se amparan en las Standard Contractual Clauses (SCCs) y las evaluaciones de impacto (TIA) proporcionadas por Supabase.
 * **Google AdMob (Google Ireland Limited)**, responsable del tratamiento de los datos publicitarios.
     * Google puede recopilar datos con fines publicitarios y analíticos conforme a su Política de Privacidad.
     * Los anuncios se mostrarán únicamente tras obtener el consentimiento explícito del usuario o, en su defecto, de forma no personalizada.
