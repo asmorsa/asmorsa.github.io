@@ -1,3 +1,9 @@
+---
+layout: page
+title: Política de Privacidad
+include_in_header: false
+---
+
 # **asmorsa**       <small>✉️ [Contacto](mailto:legal@asmorsa.app)</small>
 
 ## A. Declaración de privacidad y cookies 
