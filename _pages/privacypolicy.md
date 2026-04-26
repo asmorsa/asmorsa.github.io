@@ -4,9 +4,30 @@ title: Política de Privacidad
 include_in_header: false
 ---
 
+<style>
+  /* Separación de líneas y tamaño de texto normal más pequeño */
+  p, ul, li {
+    line-height: 1.8 !important; 
+    font-size: 0.9em !important; 
+    margin-bottom: 15px;
+  }
+  
+  /* Márgenes para que los títulos respiren y se diferencien bien */
+  h1, h2, h3, h4 {
+    margin-top: 1.8em !important;
+    margin-bottom: 0.5em !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Ajuste para que los puntos de las listas no queden pegados */
+  ul {
+    padding-left: 20px;
+  }
+</style>
+
 # **asmorsa** <span style="font-size: 0.4em; font-weight: normal; color: #666; vertical-align: middle; margin-left: 30px;">✉️ Contacto</span>
 
-## A. Declaración de privacidad y cookies 
+## A. Declaración de privacidad y cookies 
 
 ### A. Declaración de Privacidad y Cookies
 
@@ -48,7 +69,7 @@ Asmorsa utiliza los siguientes servicios de terceros para la gestión técnica y
 * **Supabase Inc.** (encargado del tratamiento de datos y alojamiento).
     * Dirección: 970 Toa Payoh North #07-04, Singapur 318992.
     * Garantiza medidas adecuadas de seguridad y cumplimiento del RGPD mediante acuerdos contractuales.
-    * Asmorsa utiliza Supabase (Supabase Inc., EE. UU.) como proveedor encargado del tratamiento. El tratamiento se realiza en servidores dentro de la UE. Las transferencias internacionales se amparan en las Standard Contractual Clauses (SCCs) y las evaluaciones de impacto (TIA) proporcionadas por Supabase.
+    * El tratamiento se realiza en servidores dentro de la UE. Las transferencias internacionales se amparan en las Standard Contractual Clauses (SCCs) y las evaluaciones de impacto (TIA) proporcionadas por Supabase.
 * **Google AdMob (Google Ireland Limited)**, responsable del tratamiento de los datos publicitarios.
     * Google puede recopilar datos con fines publicitarios y analíticos conforme a su Política de Privacidad.
     * Los anuncios se mostrarán únicamente tras obtener el consentimiento explícito del usuario o, en su defecto, de forma no personalizada.
