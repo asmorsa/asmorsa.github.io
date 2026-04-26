@@ -1,60 +1,46 @@
----
-layout: page
-title: Política de Privacidad
-include_in_header: false
----
+# Política de Privacidad y Declaración de Cookies - Asmorsa
 
-**Last updated**  
-August 1 2019
+## 1. Datos recogidos
+Asmorsa recopila únicamente los datos necesarios para el correcto funcionamiento del servicio y la mejora de la experiencia del usuario. Entre ellos se incluyen:
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+* **Información de perfil:** Nombre, imagen de perfil y correo electrónico.
+* **Ubicación:** Ubicación aproximada mientras la aplicación está en uso para mostrar bares cercanos.
+* **Interacción social:** Puntuaciones, guardados, comentarios, "likes" a comentarios e insignias obtenidas.
+* **Datos técnicos:** Identificadores de dispositivo y datos técnicos de conexión necesarios para el funcionamiento de la app e integración con servicios externos como AdMob.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+## 2. Uso de la información
+Los datos personales se utilizan con los siguientes fines:
+* Ofrecer y mejorar las funcionalidades del servicio.
+* Personalizar la experiencia del usuario y mostrar resultados relevantes.
+* Garantizar la seguridad de la comunidad y prevenir comportamientos indebidos.
+* Mostrar anuncios a través de la red publicitaria de **Google AdMob**, los cuales pueden ser personalizados o no según el consentimiento del usuario.
 
-<br>
+## 3. Cookies y tecnologías similares
+Asmorsa utiliza cookies con fines técnicos, analíticos y publicitarios para permitir que la aplicación funcione correctamente y ofrecer publicidad adaptada.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### Tipos de cookies utilizadas:
+* **Técnicas o necesarias:** Imprescindibles para el funcionamiento básico; no requieren consentimiento.
+* **Analíticas:** Permiten entender el uso de la aplicación y mejorar su rendimiento.
+* **Publicitarias (AdMob):** Proporcionadas por Google para mostrar anuncios basados en intereses y medir su rendimiento.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+El usuario puede gestionar sus preferencias (aceptar, rechazar o configurar) al iniciar la aplicación o en cualquier momento desde los **Ajustes de privacidad** de la app o del dispositivo móvil.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 4. Terceros
+Asmorsa utiliza los siguientes proveedores para la gestión técnica y publicitaria:
 
-<br>
+* **Supabase Inc. (Alojamiento y gestión de datos):** El tratamiento se realiza en servidores dentro de la **UE**. Se garantiza el cumplimiento del RGPD mediante Cláusulas Contractuales Estándar (SCCs) y evaluaciones de impacto (TIA).
+* **Google AdMob (Google Ireland Limited):** Responsable del tratamiento de datos publicitarios. Los anuncios se muestran bajo consentimiento explícito o de forma no personalizada.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Asmorsa **no comparte ni vende** datos personales a terceros distintos de los mencionados.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## 5. Derechos del usuario
+Usted puede ejercer sus derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad de las siguientes maneras:
+* **Correo electrónico:** Escribiendo a **legal@asmorsa.app**.
+* **Eliminación de cuenta:** Directamente en la app a través de `Ajustes > Eliminar cuenta`.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+> **Nota sobre menores:** Asmorsa no está dirigida a menores de **14 años**. Si se detecta una cuenta de un menor, será eliminada inmediatamente.
 
-<br>
+## 6. Cumplimiento Normativo
+Asmorsa cumple con el **Reglamento (UE) 2016/679 (RGPD)** y la **Ley Orgánica 3/2018 (LOPDGDD)**.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+El responsable del tratamiento es **Adrián Botet Segovia**, quien garantiza la confidencialidad y seguridad de la información mediante cifrado y control de acceso en los servidores de Supabase.
