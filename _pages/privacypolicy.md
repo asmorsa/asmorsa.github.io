@@ -1,48 +1,68 @@
-# **asmorsa**
+# **asmorsa**       ✉️ [Contacto](mailto:legal@asmorsa.app) 
 
-# Política de Privacidad y Declaración de Cookies - Asmorsa
+## A. Declaración de privacidad y cookies 
 
-## 1. Datos recogidos
+### A. Declaración de Privacidad y Cookies
+
+#### 1. Datos recogidos
 Asmorsa recopila únicamente los datos necesarios para el correcto funcionamiento del servicio y la mejora de la experiencia del usuario. Entre ellos se incluyen:
+* Nombre, imagen de perfil y correo electrónico.
+* Ubicación aproximada mientras la aplicación está en uso (para mostrar bares cercanos).
+* Puntuaciones, guardados, comentarios, “likes” a comentarios e insignias obtenidas.
+* Identificadores de dispositivo y datos técnicos de conexión necesarios para el funcionamiento de la app y la integración con servicios externos (como AdMob).
 
-* **Información de perfil:** Nombre, imagen de perfil y correo electrónico.
-* **Ubicación:** Ubicación aproximada mientras la aplicación está en uso para mostrar bares cercanos.
-* **Interacción social:** Puntuaciones, guardados, comentarios, "likes" a comentarios e insignias obtenidas.
-* **Datos técnicos:** Identificadores de dispositivo y datos técnicos de conexión necesarios para el funcionamiento de la app e integración con servicios externos como AdMob.
-
-## 2. Uso de la información
+#### 2. Uso de la información
 Los datos personales se utilizan con los siguientes fines:
 * Ofrecer y mejorar las funcionalidades del servicio.
 * Personalizar la experiencia del usuario y mostrar resultados relevantes.
 * Garantizar la seguridad de la comunidad y prevenir comportamientos indebidos.
-* Mostrar anuncios a través de la red publicitaria de **Google AdMob**, los cuales pueden ser personalizados o no según el consentimiento del usuario.
+* Mostrar anuncios a través de la red publicitaria de Google AdMob, pudiendo estos ser personalizados o no, según las preferencias de consentimiento del usuario.
 
-## 3. Cookies y tecnologías similares
-Asmorsa utiliza cookies con fines técnicos, analíticos y publicitarios para permitir que la aplicación funcione correctamente y ofrecer publicidad adaptada.
+#### 3. Cookies y tecnologías similares
+Asmorsa utiliza cookies y tecnologías similares con fines técnicos, analíticos y publicitarios.
+Las cookies son pequeños archivos de información que se almacenan en el dispositivo del usuario y permiten que la aplicación funcione correctamente, recopile estadísticas y ofrezca publicidad adaptada.
 
-### Tipos de cookies utilizadas:
-* **Técnicas o necesarias:** Imprescindibles para el funcionamiento básico; no requieren consentimiento.
-* **Analíticas:** Permiten entender el uso de la aplicación y mejorar su rendimiento.
-* **Publicitarias (AdMob):** Proporcionadas por Google para mostrar anuncios basados en intereses y medir su rendimiento.
+**Tipos de cookies utilizadas**
+* **Cookies técnicas o necesarias:** Son imprescindibles para el funcionamiento básico de la app y no requieren consentimiento.
+* **Cookies analíticas:** Permiten entender el uso de la aplicación y mejorar su rendimiento.
+* **Cookies publicitarias (AdMob):** Proporcionadas por Google AdMob para mostrar anuncios y medir su rendimiento. Estas cookies pueden recopilar información sobre el dispositivo, la ubicación aproximada y el uso de la app con el fin de ofrecer anuncios personalizados según los intereses del usuario.
 
-El usuario puede gestionar sus preferencias (aceptar, rechazar o configurar) al iniciar la aplicación o en cualquier momento desde los **Ajustes de privacidad** de la app o del dispositivo móvil.
+Asmorsa muestra un aviso de consentimiento al iniciar la aplicación por primera vez, donde el usuario puede:
+* Aceptar todas las cookies.
+* Rechazar las cookies no esenciales.
+* Configurar sus preferencias.
 
-## 4. Terceros
-Asmorsa utiliza los siguientes proveedores para la gestión técnica y publicitaria:
+El usuario puede modificar o retirar su consentimiento en cualquier momento desde los Ajustes de privacidad dentro de la app o desde los ajustes de su dispositivo móvil.
 
-* **Supabase Inc. (Alojamiento y gestión de datos):** El tratamiento se realiza en servidores dentro de la **UE**. Se garantiza el cumplimiento del RGPD mediante Cláusulas Contractuales Estándar (SCCs) y evaluaciones de impacto (TIA).
-* **Google AdMob (Google Ireland Limited):** Responsable del tratamiento de datos publicitarios. Los anuncios se muestran bajo consentimiento explícito o de forma no personalizada.
+Para más información sobre cómo Google utiliza las cookies en AdMob, se puede consultar la política oficial:
+👉 [https://policies.google.com/technologies/ads?hl=es](https://policies.google.com/technologies/ads?hl=es)
 
-Asmorsa **no comparte ni vende** datos personales a terceros distintos de los mencionados.
+#### 4. Terceros
+Asmorsa utiliza los siguientes servicios de terceros para la gestión técnica y publicitaria:
+* **Supabase Inc.** (encargado del tratamiento de datos y alojamiento).
+    * Dirección: 970 Toa Payoh North #07-04, Singapur 318992.
+    * Garantiza medidas adecuadas de seguridad y cumplimiento del RGPD mediante acuerdos contractuales.
+    * El tratamiento se realiza en servidores dentro de la UE. Las transferencias internacionales se amparan en las Standard Contractual Clauses (SCCs) y las evaluaciones de impacto (TIA) proporcionadas por Supabase.
+* **Google AdMob (Google Ireland Limited)**, responsable del tratamiento de los datos publicitarios.
+    * Google puede recopilar datos con fines publicitarios y analíticos conforme a su Política de Privacidad.
+    * Los anuncios se mostrarán únicamente tras obtener el consentimiento explícito del usuario o, en su defecto, de forma no personalizada.
 
-## 5. Derechos del usuario
-Usted puede ejercer sus derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad de las siguientes maneras:
-* **Correo electrónico:** Escribiendo a **legal@asmorsa.app**.
-* **Eliminación de cuenta:** Directamente en la app a través de `Ajustes > Eliminar cuenta`.
+Asmorsa no comparte ni vende datos personales a terceros distintos de los mencionados.
 
-> **Nota sobre menores:** Asmorsa no está dirigida a menores de **14 años**. Si se detecta una cuenta de un menor, será eliminada inmediatamente.
+#### 5. Derechos del usuario
+El usuario puede ejercer sus derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad escribiendo a:
+📧 [legal@asmorsa.app](mailto:legal@asmorsa.app)
 
-## 6. Cumplimiento Normativo
-Asmorsa cumple con el **Reglamento (UE) 2016/679 (RGPD)** y la **Ley Orgánica 3/2018 (LOPDGDD)**.
+También puede eliminar su cuenta y los datos asociados en:
+**Ajustes > Eliminar cuenta**
 
-El responsable del tratamiento es **Adrián Botet Segovia**, quien garantiza la confidencialidad y seguridad de la información mediante cifrado y control de acceso en los servidores de Supabase.
+**Edad mínima:** Asmorsa no está dirigida a menores de 14 años. Si se detecta una cuenta de un menor, será eliminada de forma inmediata.
+
+#### 6. Cumplimiento del RGPD y LOPDGDD
+Asmorsa cumple con lo dispuesto en el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD).
+* Los datos personales se tratan de forma lícita, leal y transparente, limitándose exclusivamente a los fines legítimos de la aplicación.
+* El responsable del tratamiento es **Adrián Botet Segovia (Asmorsa)**, quien garantiza la confidencialidad, integridad y seguridad de la información almacenada en servidores seguros gestionados por Supabase, con medidas de cifrado y control de acceso.
+
+ 
+
+### Descarga la aplicación
